@@ -4,7 +4,6 @@
 
 <br>
 
-<br>
 
 ## Note:
 This script may not work in future because webpages of a website change very quickly but with some change in this you can use it.
